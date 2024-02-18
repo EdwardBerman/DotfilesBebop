@@ -1,0 +1,20 @@
+2023-12-03 16:07:32.189 [info] CURSOR LOG: Finished creating provider!
+2023-12-03 16:07:32.189 [error] Error: Command failed: git config --get remote.origin.url
+
+	at ChildProcess.exithandler (node:child_process:430:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)
+2023-12-03 16:07:32.417 [info] Creating merkle client.
+2023-12-03 16:07:32.417 [info] Done creating merkle client.
+2023-12-03 16:07:32.417 [info] Doing a startup handshake.
+2023-12-03 16:07:32.437 [info] Finished initializing merkle tree in 20.732203990221024 ms.
+2023-12-03 16:07:32.438 [info] Doing the initial handshake with hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 16:07:32.600 [info] Handshake result:
+2023-12-03 16:07:32.600 [info] Starting fast remote sync.
+2023-12-03 16:07:32.601 [info] Total num embeddable files: 11
+2023-12-03 16:07:32.601 [info] Root hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 16:07:32.602 [info] Finished indexing repository.
+2023-12-03 16:07:32.602 [info] Indexing job successfully done or aborted.

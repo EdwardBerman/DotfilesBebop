@@ -1,0 +1,23 @@
+[Data Source]
+DisplayName=berman.ed@husky.neu.edu
+Enabled=true
+Parent=47481f3961f0a9df819cbdfdf203c4ce77b37764
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=berman.ed@husky.neu.edu
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false

@@ -1,0 +1,21 @@
+2023-12-12 21:48:18.431 [info] CURSOR LOG: Finished creating provider!
+2023-12-12 21:48:18.431 [error] Error: Command failed: git config --get remote.origin.url
+
+	at ChildProcess.exithandler (node:child_process:430:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)
+2023-12-12 21:48:18.613 [info] Creating merkle client.
+2023-12-12 21:48:18.613 [info] Done creating merkle client.
+2023-12-12 21:48:18.613 [info] Doing a startup handshake.
+2023-12-12 21:48:18.642 [info] Finished initializing merkle tree in 29.686125993728638 ms.
+2023-12-12 21:48:18.643 [info] Doing the initial handshake with hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-12 21:48:19.015 [info] Handshake result:
+2023-12-12 21:48:19.015 [info] Starting fast remote sync.
+2023-12-12 21:48:19.019 [warning] Error computing full high level folder description. Ignoring. [not_found] Model name is not valid: gpt-3.5-turbo-1106
+2023-12-12 21:48:19.020 [info] Total num embeddable files: 11
+2023-12-12 21:48:19.021 [info] Root hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-12 21:48:19.022 [info] Finished indexing repository.
+2023-12-12 21:48:19.022 [info] Indexing job successfully done or aborted.

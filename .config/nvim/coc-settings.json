@@ -1,0 +1,22 @@
+{
+  "codeLens.enable": true,
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/Users/noahshinn/.classpath/*.jar"
+  ],
+  "coc.preferences.formatOnSaveFiletypes": [
+    "typescript",
+    "typescriptreact",
+    "javascript",
+    "racket",
+    "java",
+    "ocaml",
+    "go"
+  ],
+  "diagnostic.checkCurrentLine": true,
+  "suggest.labelMaxLength": 75,
+  "java.format.settings.url": "/Users/noahshinn/.config/nvim/eclipse-formatter.xml",
+  "java.format.enabled": true,
+  "java.format.onType.enabled": true,
+  "java.format.comments.enabled": true
+}

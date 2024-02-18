@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=berman.ed@husky.neu.edu
+Enabled=true
+Parent=47481f3961f0a9df819cbdfdf203c4ce77b37764
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=2826f5e099d68ac18cc76b1c465949cc06a6b179
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=berman.ed@husky.neu.edu
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

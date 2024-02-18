@@ -1,0 +1,7 @@
+# Increase volume
+"pactl set-sink-volume @DEFAULT_SINK@ +10%"
+Shift + F6
+
+# Decrease volume
+"pactl set-sink-volume @DEFAULT_SINK@ -10%"
+Shift + F5

@@ -1,0 +1,41 @@
+2023-12-03 14:13:15.582 [info] Started initializing default profile extensions in extensions installation folder. file:///home/eddieberman/.cursor/extensions
+2023-12-03 14:13:15.844 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/eddieberman/.cursor/extensions Unable to create file 'vscode-userdata:/home/eddieberman/.cursor/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-12-03 14:13:15.845 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/eddieberman/.cursor/extensions
+2023-12-03 14:13:50.348 [info] Getting Manifest... vscodevim.vim
+2023-12-03 14:13:50.987 [info] Installing extension: vscodevim.vim
+2023-12-03 14:13:51.136 [info] Started downloading extension: vscodevim.vim 1.25.2 file:///home/eddieberman/.config/Cursor/CachedExtensionVSIXs/cursor-vscodevim.vim-1.25.2-universal
+2023-12-03 14:13:51.137 [info] Downloading extension to temp location: vscodevim.vim 1.25.2 file:///home/eddieberman/.config/Cursor/CachedExtensionVSIXs/.e01540d7-ec6d-420b-b91a-f20dd6b73e1a
+2023-12-03 14:13:52.226 [info] Started downloading extension: vscodevim.vim 1.25.2 file:///home/eddieberman/.config/Cursor/CachedExtensionVSIXs/vscodevim.vim-1.25.2-universal.sigzip
+2023-12-03 14:13:52.229 [info] Downloading extension to temp location: vscodevim.vim 1.25.2 file:///home/eddieberman/.config/Cursor/CachedExtensionVSIXs/.70fd1c5f-ba00-4061-a1ee-2692f5c22e72
+2023-12-03 14:13:52.397 [info] Extension signature verification is not done: vscodevim.vim
+2023-12-03 14:13:52.452 [info] Extracted extension to file:///home/eddieberman/.cursor/extensions/vscodevim.vim-1.25.2-universal: vscodevim.vim
+2023-12-03 14:13:52.454 [info] Renamed to /home/eddieberman/.cursor/extensions/vscodevim.vim-1.25.2-universal
+2023-12-03 14:13:52.455 [info] Extracting extension completed. vscodevim.vim
+2023-12-03 14:13:52.465 [info] Extension installed successfully: vscodevim.vim
+2023-12-03 14:13:52.544 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/eddieberman/.cursor/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/eddieberman/.cursor/extensions/extensions.json.vsctmp'
+    at r.create (/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30472)
+    at a (/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30586)
+    at i.fb (/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36198)
+    at i.stat (/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28644)
+    at async E.stat (/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:15754)
+    at async ee.tb (/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:9921)
+2023-12-03 14:14:11.000 [info] Getting Manifest... vscodevim.vim
+2023-12-03 14:14:11.073 [info] Installing extension: vscodevim.vim
+2023-12-03 14:14:11.203 [info] Started downloading extension: vscodevim.vim 1.25.2 file:///home/eddieberman/.config/Cursor/CachedExtensionVSIXs/cursor-vscodevim.vim-1.25.2
+2023-12-03 14:14:11.204 [info] Downloading extension to temp location: vscodevim.vim 1.25.2 file:///home/eddieberman/.config/Cursor/CachedExtensionVSIXs/.18514f90-49c7-43bf-b7f1-6885bbb719fe
+2023-12-03 14:14:11.405 [info] Started downloading extension: vscodevim.vim 1.25.2 file:///home/eddieberman/.config/Cursor/CachedExtensionVSIXs/vscodevim.vim-1.25.2.sigzip
+2023-12-03 14:14:11.406 [info] Downloading extension to temp location: vscodevim.vim 1.25.2 file:///home/eddieberman/.config/Cursor/CachedExtensionVSIXs/.b180a844-c5a1-408c-8109-9d30d1457d45
+2023-12-03 14:14:11.421 [info] Extension signature verification is not done: vscodevim.vim
+2023-12-03 14:14:11.457 [info] Extracted extension to file:///home/eddieberman/.cursor/extensions/vscodevim.vim-1.25.2: vscodevim.vim
+2023-12-03 14:14:11.462 [info] Renamed to /home/eddieberman/.cursor/extensions/vscodevim.vim-1.25.2
+2023-12-03 14:14:11.464 [info] Extracting extension completed. vscodevim.vim
+2023-12-03 14:14:11.474 [info] Extension installed successfully: vscodevim.vim
+2023-12-03 14:14:11.476 [info] Marked extension as uninstalled vscodevim.vim-1.25.2-universal
+2023-12-03 14:14:11.554 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/eddieberman/.cursor/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/eddieberman/.cursor/extensions/extensions.json.vsctmp'
+    at r.create (/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30472)
+    at a (/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30586)
+    at i.fb (/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36198)
+    at i.stat (/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28644)
+    at async E.stat (/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:15754)
+    at async ee.tb (/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:111:9921)
+2023-12-03 14:14:11.559 [info] Extensions added from another source vscodevim.vim vscode-userdata:/home/eddieberman/.cursor/extensions/extensions.json

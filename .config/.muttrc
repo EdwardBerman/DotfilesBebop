@@ -1,0 +1,8 @@
+set imap_user = 'berman.ed@northeastern.edu'
+set imap_pass = 'Edhockey#2910'
+
+set smtp_url = 'smtp://your_email@example.com:your_password@smtp.example.com:587/'
+set smtp_pass = 'your_password'
+set from = 'your_email@example.com'
+set realname = 'Your Name'
+

@@ -1,0 +1,21 @@
+00:00:00.545513 VirtualBox GUI VM Selector Window 7.0.8_Ubuntu r156879 linux.amd64 (Jul  7 2023 19:03:10) release log
+00:00:00.545515 Log opened 2023-07-28T20:00:15.515013000Z
+00:00:00.545516 Build Type: release
+00:00:00.545525 OS Product: Linux
+00:00:00.545526 OS Release: 6.2.6-76060206-generic
+00:00:00.545526 OS Version: #202303130630~1689015125~22.04~ab2190e SMP PREEMPT_DYNAMIC Mon J
+00:00:00.545594 DMI Product Name: Lemur Pro
+00:00:00.545614 DMI Product Version: lemp11
+00:00:00.545630 Firmware type: UEFI
+00:00:00.545651 Secure Boot: Disabled
+00:00:00.545735 Host RAM: 15829MB (15.4GB) total, 8005MB (7.8GB) available
+00:00:00.545744 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.545744 Process ID: 299084
+00:00:00.545745 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.545822 Qt version: 5.15.3
+00:00:00.547206 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.556114 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.556149 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.064020 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 964x40 x 948x1032
+00:00:07.674732 GUI: UICommon: Handling aboutToQuit request..
+00:00:08.641380 GUI: UICommon: aboutToQuit request handled!

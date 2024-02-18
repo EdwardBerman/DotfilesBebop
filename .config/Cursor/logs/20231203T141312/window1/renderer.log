@@ -1,0 +1,164 @@
+2023-12-03 14:13:14.797 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-03 14:13:14.863 [warning] Missing property "aiSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.864 [warning] Missing property "authenticationSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.864 [warning] Missing property "websiteUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.864 [warning] Missing property "backendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.864 [warning] Missing property "auth0ClientId" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.864 [warning] Missing property "auth0Domain" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.865 [warning] Missing property "repoBackendUrl" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.865 [warning] Missing property "docState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.865 [warning] Missing property "lastUpdateHiddenTimeInUnixSeconds" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.865 [warning] Missing property "lintRules" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.865 [warning] Missing property "bubbleTimesLeft" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.866 [warning] Missing property "showAgentActionDebugger" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.866 [warning] Missing property "cmdLineHookState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.866 [warning] Missing property "agentDebuggerState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.866 [warning] Missing property "showLinterDebugger" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.867 [warning] Missing property "linterDebuggerState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.867 [warning] Missing property "lintSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.867 [warning] Missing property "lastUpgradeToProNotificationTime" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.868 [warning] Missing property "haveNotSeen" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.868 [warning] Missing property "newUserData" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.868 [warning] Missing property "azureState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.868 [warning] Missing property "interpreterModeSettings" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.868 [warning] Missing property "personalDocs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.868 [warning] Missing property "fastCppEnabled" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.869 [warning] Missing property "indexRepository" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.869 [warning] Missing property "haveNotImportedFromVSC" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.869 [warning] Missing property "SPECIAL_KEY_lastUpdatedTimeInUnixSeconds" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.869 [warning] Missing property "repositoryData" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.869 [warning] Missing property "shouldHideWarning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.869 [warning] Missing property "persistentChatMetadata" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.870 [warning] Missing property "aiPanePosition" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:14.870 [warning] Missing property "shouldRerankByDefault" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:13:15.095 [error] [uncaught exception in main]: SQLITE_CANTOPEN: unable to open database file: Error: SQLITE_CANTOPEN: unable to open database file
+2023-12-03 14:13:15.153 [error] Unable to resolve nonexistent file '/home/eddieberman/.vscode/extensions': Error: Unable to resolve nonexistent file '/home/eddieberman/.vscode/extensions'
+    at n.resolve (vscode-file://vscode-app/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/workbench/workbench.desktop.main.js:835:12258)
+    at async de (vscode-file://vscode-app/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/workbench/workbench.desktop.main.js:22384:61094)
+2023-12-03 14:13:15.222 [info] Started initializing default profile extensions in extensions installation folder. file:///home/eddieberman/.cursor/extensions
+2023-12-03 14:13:15.576 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/eddieberman/.cursor/extensions
+2023-12-03 14:13:18.243 [info] [perf] Render performance baseline is 18ms
+2023-12-03 14:13:52.505 [info] Ignoring configured affinity for 'vscodevim.vim' because extension host(s) are already running. Reload window.
+2023-12-03 14:13:52.661 [info] Starting polling for login
+2023-12-03 14:13:52.861 [info] Beginning of Login Poll
+2023-12-03 14:13:52.897 [info] Got login result 404
+2023-12-03 14:13:53.061 [info] Beginning of Login Poll
+2023-12-03 14:13:53.084 [info] Got login result 404
+2023-12-03 14:13:53.261 [info] Beginning of Login Poll
+2023-12-03 14:13:53.292 [info] Got login result 404
+2023-12-03 14:13:53.461 [info] Beginning of Login Poll
+2023-12-03 14:13:53.491 [info] Got login result 404
+2023-12-03 14:13:53.641 [error] ENOENT: no such file or directory, open '/home/eddieberman/.config/Cursor/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/eddieberman/.config/Cursor/User/globalStorage/vscodevim.vim/.registers'
+2023-12-03 14:13:53.662 [info] Beginning of Login Poll
+2023-12-03 14:13:53.690 [info] Got login result 404
+2023-12-03 14:13:53.862 [info] Beginning of Login Poll
+2023-12-03 14:13:53.887 [info] Got login result 404
+2023-12-03 14:13:54.061 [info] Beginning of Login Poll
+2023-12-03 14:13:54.082 [info] Got login result 404
+2023-12-03 14:13:54.262 [info] Beginning of Login Poll
+2023-12-03 14:13:54.289 [info] Got login result 404
+2023-12-03 14:13:54.462 [info] Beginning of Login Poll
+2023-12-03 14:13:54.492 [info] Got login result 404
+2023-12-03 14:13:54.662 [info] Beginning of Login Poll
+2023-12-03 14:13:54.688 [info] Got login result 404
+2023-12-03 14:13:54.862 [info] Beginning of Login Poll
+2023-12-03 14:13:54.889 [info] Got login result 404
+2023-12-03 14:13:55.062 [info] Beginning of Login Poll
+2023-12-03 14:13:55.087 [info] Got login result 404
+2023-12-03 14:13:55.262 [info] Beginning of Login Poll
+2023-12-03 14:13:55.293 [info] Got login result 404
+2023-12-03 14:13:55.461 [info] Beginning of Login Poll
+2023-12-03 14:13:55.485 [info] Got login result 404
+2023-12-03 14:13:55.662 [info] Beginning of Login Poll
+2023-12-03 14:13:55.689 [info] Got login result 404
+2023-12-03 14:13:55.862 [info] Beginning of Login Poll
+2023-12-03 14:13:55.885 [info] Got login result 404
+2023-12-03 14:13:56.062 [info] Beginning of Login Poll
+2023-12-03 14:13:56.091 [info] Got login result 404
+2023-12-03 14:13:56.261 [info] Beginning of Login Poll
+2023-12-03 14:13:56.287 [info] Got login result 404
+2023-12-03 14:13:56.461 [info] Beginning of Login Poll
+2023-12-03 14:13:56.485 [info] Got login result 404
+2023-12-03 14:13:56.662 [info] Beginning of Login Poll
+2023-12-03 14:13:56.693 [info] Got login result 404
+2023-12-03 14:13:56.862 [info] Beginning of Login Poll
+2023-12-03 14:13:56.890 [info] Got login result 404
+2023-12-03 14:13:57.061 [info] Beginning of Login Poll
+2023-12-03 14:13:57.081 [info] Got login result 404
+2023-12-03 14:13:57.261 [info] Beginning of Login Poll
+2023-12-03 14:13:57.282 [info] Got login result 404
+2023-12-03 14:13:57.461 [info] Beginning of Login Poll
+2023-12-03 14:13:57.519 [info] Got login result 404
+2023-12-03 14:13:57.662 [info] Beginning of Login Poll
+2023-12-03 14:13:57.683 [info] Got login result 404
+2023-12-03 14:13:57.862 [info] Beginning of Login Poll
+2023-12-03 14:13:57.887 [info] Got login result 404
+2023-12-03 14:13:58.061 [info] Beginning of Login Poll
+2023-12-03 14:13:58.083 [info] Got login result 404
+2023-12-03 14:13:58.262 [info] Beginning of Login Poll
+2023-12-03 14:13:58.284 [info] Got login result 404
+2023-12-03 14:13:58.462 [info] Beginning of Login Poll
+2023-12-03 14:13:58.486 [info] Got login result 404
+2023-12-03 14:13:58.661 [info] Beginning of Login Poll
+2023-12-03 14:13:58.688 [info] Got login result 404
+2023-12-03 14:13:58.861 [info] Beginning of Login Poll
+2023-12-03 14:13:58.884 [info] Got login result 404
+2023-12-03 14:13:59.062 [info] Beginning of Login Poll
+2023-12-03 14:13:59.093 [info] Got login result 404
+2023-12-03 14:13:59.262 [info] Beginning of Login Poll
+2023-12-03 14:13:59.283 [info] Got login result 404
+2023-12-03 14:13:59.462 [info] Beginning of Login Poll
+2023-12-03 14:13:59.489 [info] Got login result 404
+2023-12-03 14:13:59.661 [info] Beginning of Login Poll
+2023-12-03 14:13:59.684 [info] Got login result 404
+2023-12-03 14:13:59.862 [info] Beginning of Login Poll
+2023-12-03 14:13:59.890 [info] Got login result 404
+2023-12-03 14:14:00.062 [info] Beginning of Login Poll
+2023-12-03 14:14:00.093 [info] Got login result 404
+2023-12-03 14:14:00.262 [info] Beginning of Login Poll
+2023-12-03 14:14:00.288 [info] Got login result 404
+2023-12-03 14:14:00.461 [info] Beginning of Login Poll
+2023-12-03 14:14:00.487 [info] Got login result 404
+2023-12-03 14:14:00.662 [info] Beginning of Login Poll
+2023-12-03 14:14:00.695 [info] Got login result 404
+2023-12-03 14:14:00.861 [info] Beginning of Login Poll
+2023-12-03 14:14:00.883 [info] Got login result 404
+2023-12-03 14:14:01.062 [info] Beginning of Login Poll
+2023-12-03 14:14:01.087 [info] Got login result 404
+2023-12-03 14:14:01.261 [info] Beginning of Login Poll
+2023-12-03 14:14:01.284 [info] Got login result 404
+2023-12-03 14:14:01.461 [info] Beginning of Login Poll
+2023-12-03 14:14:01.486 [info] Got login result 404
+2023-12-03 14:14:01.662 [info] Beginning of Login Poll
+2023-12-03 14:14:01.692 [info] Got login result 404
+2023-12-03 14:14:01.862 [info] Beginning of Login Poll
+2023-12-03 14:14:01.884 [info] Got login result 404
+2023-12-03 14:14:02.062 [info] Beginning of Login Poll
+2023-12-03 14:14:02.089 [info] Got login result 404
+2023-12-03 14:14:02.262 [info] Beginning of Login Poll
+2023-12-03 14:14:02.293 [info] Got login result 404
+2023-12-03 14:14:02.461 [info] Beginning of Login Poll
+2023-12-03 14:14:02.484 [info] Got login result 404
+2023-12-03 14:14:02.662 [info] Beginning of Login Poll
+2023-12-03 14:14:02.694 [info] Got login result 404
+2023-12-03 14:14:02.861 [info] Beginning of Login Poll
+2023-12-03 14:14:02.888 [info] Got login result 404
+2023-12-03 14:14:03.063 [info] Beginning of Login Poll
+2023-12-03 14:14:03.089 [info] Got login result 404
+2023-12-03 14:14:03.261 [info] Beginning of Login Poll
+2023-12-03 14:14:03.287 [info] Got login result 404
+2023-12-03 14:14:03.461 [info] Beginning of Login Poll
+2023-12-03 14:14:03.482 [info] Got login result 200
+2023-12-03 14:14:03.482 [info] Got login json {"accessToken":"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkN1VWI0NkVHT3BHaXI4TDh3VkRQRCJ9.eyJpc3MiOiJodHRwczovL2N1cnNvci51cy5hdXRoMC5jb20vIiwic3ViIjoiZ2l0aHVifDk0Mzc4ODE0IiwiYXVkIjpbImh0dHBzOi8vY3Vyc29yLnVzLmF1dGgwLmNvbS9hcGkvdjIvIiwiaHR0cHM6Ly9jdXJzb3IudXMuYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTcwMTYzMDg0MywiZXhwIjoxNzAyODQwNDQzLCJhenAiOiJLYlpVUjQxY1k3VzZ6UlNkcFNVSjdJN21MWUJLT0NtQiIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgb2ZmbGluZV9hY2Nlc3MifQ.OnUfI1gOlO6m8sCoQ_zjAs42Cp8CzkRVp317JHqjLKF4FT6NVuBuQDYblTEi9sMnBMJvIRcCBY3xLjuA2Slwq00Zl2N7ktgN8e-5SuPr3Tj4eAHup_0ZfvNupUNJcv_fKo4I2GAY6e5nqJcdeE8qrmEvKuu2g_c4xTpMTvO4NQgAdq9PWOGfqH7RW0w5u3QU_sazp_-fCb65vCr32qZmZ-bz106Neaxw88i6N0C5MREx3yYcPo5RCPWUSaXpcmX49Rb2705zafHMvjlikK9NDFx90-zoTwveDJrQ3zVJc-Dz69QlddNoVWfuVRrk82rMYndYldEhgUSSPYQEKBuBZA","refreshToken":"RUKaYxrQTIIh1T0kHD-G2XITz9KxL8lPw2UtPYqr-ZWE9","challenge":"RE8kTKA5lWXz13FQEQ3Rh5rv0LjqEIFMxqxRVP6IY40","authId":"github|94378814","uuid":"b9c7af6c-8b40-473b-aa47-d561ed803fc7"}
+2023-12-03 14:14:03.531 [error] Cannot read properties of undefined (reading 'uri'): TypeError: Cannot read properties of undefined (reading 'uri')
+    at z.setRepoInfo (vscode-file://vscode-app/tmp/.mount_cursorzq8PZ2/resources/app/out/vs/workbench/workbench.desktop.main.js:21292:13539)
+2023-12-03 14:14:03.663 [info] Beginning of Login Poll
+2023-12-03 14:14:04.704 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-dotnettools.dotnet-interactive-vscode' wants API proposal 'languageConfigurationAutoClosingPairs' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-12-03 14:14:04.749 [warning] Missing property "repositoryData" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:14:04.749 [warning] Missing property "shouldHideWarning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:14:04.749 [warning] Missing property "persistentChatMetadata" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:14:04.749 [warning] Missing property "aiPanePosition" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:14:04.749 [warning] Missing property "shouldRerankByDefault" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2023-12-03 14:14:04.984 [info] Placing extension(s) vscodevim.vim on a separate extension host.
+2023-12-03 14:14:06.811 [error] ENOENT: no such file or directory, open '/home/eddieberman/.config/Cursor/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/eddieberman/.config/Cursor/User/globalStorage/vscodevim.vim/.registers'
+2023-12-03 14:14:08.294 [info] [perf] Render performance baseline is 26ms

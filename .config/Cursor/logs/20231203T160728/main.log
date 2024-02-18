@@ -1,0 +1,9 @@
+2023-12-03 16:07:28.985 [info] update#setState disabled
+2023-12-03 16:07:28.999 [info] update#ctor - updates are disabled as there is no update URL
+2023-12-03 16:07:29.063 [error] [storage state.vscdb] error checking size of src.vs.platform.reactivestorage.browser.reactiveStorageServiceImpl.persistentStorage.workspaceUser: Error: Unexpected number of rows - 0
+2023-12-03 16:07:29.063 [error] [storage state.vscdb] error checking size of workbench.panel.aichat.view.aichat.chatdata: Error: Unexpected number of rows - 0
+2023-12-03 16:07:29.074 [error] [uncaught exception in main]: Error: SQLITE_CANTOPEN: unable to open database file
+2023-12-03 16:07:29.074 [error] Error: SQLITE_CANTOPEN: unable to open database file
+2023-12-03 16:07:30.513 [error] vscode-file: Refused to load resource /tmp/.mount_cursorzq8PZ2/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_cursorzq8PZ2/resources/app/extensions/theme-seti/icons/seti.woff)
+2023-12-03 16:07:33.019 [info] Extension host with pid 380664 exited with code: 0, signal: unknown.
+2023-12-03 16:07:33.043 [info] Extension host with pid 380616 exited with code: 0, signal: unknown.

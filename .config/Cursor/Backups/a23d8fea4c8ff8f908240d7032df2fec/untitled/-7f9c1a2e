@@ -1,0 +1,4 @@
+untitled:Untitled-1 {"typeId":""}
+
+with open('filename.txt', 'r') as file:
+    data = file.read()

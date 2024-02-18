@@ -1,0 +1,6 @@
+2023-12-10 16:46:25.431 [info] update#setState disabled
+2023-12-10 16:46:25.453 [info] update#ctor - updates are disabled as there is no update URL
+2023-12-10 16:46:25.551 [error] [storage state.vscdb] error checking size of src.vs.platform.reactivestorage.browser.reactiveStorageServiceImpl.persistentStorage.workspaceUser: Error: Unexpected number of rows - 0
+2023-12-10 16:46:25.552 [error] [storage state.vscdb] error checking size of workbench.panel.aichat.view.aichat.chatdata: Error: Unexpected number of rows - 0
+2023-12-10 16:46:25.567 [error] [uncaught exception in main]: Error: SQLITE_CANTOPEN: unable to open database file
+2023-12-10 16:46:25.567 [error] Error: SQLITE_CANTOPEN: unable to open database file

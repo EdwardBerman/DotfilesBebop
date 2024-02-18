@@ -1,0 +1,112 @@
+2023-12-03 14:13:16.981 [info] CURSOR LOG: Finished creating provider!
+2023-12-03 14:13:16.981 [error] Error: Command failed: git config --get remote.origin.url
+
+	at ChildProcess.exithandler (node:child_process:430:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)
+2023-12-03 14:13:17.209 [error] accessToken is undefined. User is not logged in. We shouldn't do any indexing.
+2023-12-03 14:14:03.525 [error] No workspace folders!
+2023-12-03 14:14:06.975 [info] CURSOR LOG: Finished creating provider!
+2023-12-03 14:14:06.975 [error] Error: Command failed: git config --get remote.origin.url
+
+	at ChildProcess.exithandler (node:child_process:430:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)
+2023-12-03 14:14:07.154 [info] Creating merkle client.
+2023-12-03 14:14:07.154 [info] Done creating merkle client.
+2023-12-03 14:14:07.154 [info] Doing a startup handshake.
+2023-12-03 14:14:07.166 [info] Finished initializing merkle tree in 11.757326006889343 ms.
+2023-12-03 14:14:07.167 [info] Doing the initial handshake with hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 14:14:07.190 [warning] Error reading high level folder description. Ignoring. Error: ENOENT: no such file or directory, open '/home/eddieberman/.config/Cursor/User/workspaceStorage/b07bca22c0544168413c21563e244060/anysphere.cursor-retrieval/high_level_folder_description.txt'
+2023-12-03 14:14:07.335 [warning] Error computing full high level folder description. Ignoring. [not_found] Model name is not valid: gpt-3.5-turbo-1106
+2023-12-03 14:14:07.344 [info] Handshake result:
+2023-12-03 14:14:07.344 [info] Starting fast remote sync.
+2023-12-03 14:14:07.344 [info] Total num embeddable files: 11
+2023-12-03 14:14:07.344 [info] Root hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 14:14:07.344 [info] Starting repository upload from scratch.
+2023-12-03 14:14:07.346 [info] Uploading 11 files.
+2023-12-03 14:14:10.211 [info] Finished indexing repository.
+2023-12-03 14:14:10.211 [info] Indexing job successfully done or aborted.
+2023-12-03 14:24:07.149 [info] Creating merkle client.
+2023-12-03 14:24:07.149 [info] Done creating merkle client.
+2023-12-03 14:24:07.149 [info] Doing a startup handshake.
+2023-12-03 14:24:07.152 [info] Finished initializing merkle tree in 2.534914970397949 ms.
+2023-12-03 14:24:07.160 [info] Doing the initial handshake with hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 14:24:07.258 [info] Handshake result:
+2023-12-03 14:24:07.258 [info] Starting fast remote sync.
+2023-12-03 14:24:07.258 [info] Total num embeddable files: 11
+2023-12-03 14:24:07.259 [info] Root hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 14:24:07.259 [info] Finished indexing repository.
+2023-12-03 14:24:07.259 [info] Indexing job successfully done or aborted.
+2023-12-03 14:34:07.150 [info] Creating merkle client.
+2023-12-03 14:34:07.150 [info] Done creating merkle client.
+2023-12-03 14:34:07.150 [info] Doing a startup handshake.
+2023-12-03 14:34:07.153 [info] Finished initializing merkle tree in 3.341938018798828 ms.
+2023-12-03 14:34:07.154 [info] Doing the initial handshake with hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 14:34:07.266 [info] Handshake result:
+2023-12-03 14:34:07.266 [info] Starting fast remote sync.
+2023-12-03 14:34:07.266 [info] Total num embeddable files: 11
+2023-12-03 14:34:07.266 [info] Root hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 14:34:07.267 [info] Finished indexing repository.
+2023-12-03 14:34:07.267 [info] Indexing job successfully done or aborted.
+2023-12-03 14:44:07.150 [info] Creating merkle client.
+2023-12-03 14:44:07.150 [info] Done creating merkle client.
+2023-12-03 14:44:07.150 [info] Doing a startup handshake.
+2023-12-03 14:44:07.152 [info] Finished initializing merkle tree in 2.014847993850708 ms.
+2023-12-03 14:44:07.153 [info] Doing the initial handshake with hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 14:44:07.267 [info] Handshake result:
+2023-12-03 14:44:07.267 [info] Starting fast remote sync.
+2023-12-03 14:44:07.268 [info] Total num embeddable files: 11
+2023-12-03 14:44:07.268 [info] Root hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 14:44:07.268 [info] Finished indexing repository.
+2023-12-03 14:44:07.268 [info] Indexing job successfully done or aborted.
+2023-12-03 14:54:07.152 [info] Creating merkle client.
+2023-12-03 14:54:07.163 [info] Done creating merkle client.
+2023-12-03 14:54:07.163 [info] Doing a startup handshake.
+2023-12-03 14:54:07.163 [info] Finished initializing merkle tree in 11.034822016954422 ms.
+2023-12-03 14:54:07.164 [info] Doing the initial handshake with hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 14:54:07.274 [info] Handshake result:
+2023-12-03 14:54:07.274 [info] Starting fast remote sync.
+2023-12-03 14:54:07.274 [info] Total num embeddable files: 11
+2023-12-03 14:54:07.275 [info] Root hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 14:54:07.275 [info] Finished indexing repository.
+2023-12-03 14:54:07.275 [info] Indexing job successfully done or aborted.
+2023-12-03 15:04:07.152 [info] Creating merkle client.
+2023-12-03 15:04:07.152 [info] Done creating merkle client.
+2023-12-03 15:04:07.152 [info] Doing a startup handshake.
+2023-12-03 15:04:07.154 [info] Finished initializing merkle tree in 2.0822369754314423 ms.
+2023-12-03 15:04:07.155 [info] Doing the initial handshake with hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 15:04:07.263 [info] Handshake result:
+2023-12-03 15:04:07.263 [info] Starting fast remote sync.
+2023-12-03 15:04:07.263 [info] Total num embeddable files: 11
+2023-12-03 15:04:07.264 [info] Root hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 15:04:07.264 [info] Finished indexing repository.
+2023-12-03 15:04:07.264 [info] Indexing job successfully done or aborted.
+2023-12-03 15:14:07.153 [info] Creating merkle client.
+2023-12-03 15:14:07.153 [info] Done creating merkle client.
+2023-12-03 15:14:07.153 [info] Doing a startup handshake.
+2023-12-03 15:14:07.166 [info] Finished initializing merkle tree in 13.23903501033783 ms.
+2023-12-03 15:14:07.166 [info] Doing the initial handshake with hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 15:14:07.292 [info] Handshake result:
+2023-12-03 15:14:07.292 [info] Starting fast remote sync.
+2023-12-03 15:14:07.292 [info] Total num embeddable files: 11
+2023-12-03 15:14:07.292 [info] Root hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 15:14:07.292 [info] Finished indexing repository.
+2023-12-03 15:14:07.292 [info] Indexing job successfully done or aborted.
+2023-12-03 15:24:07.155 [info] Creating merkle client.
+2023-12-03 15:24:07.155 [info] Done creating merkle client.
+2023-12-03 15:24:07.155 [info] Doing a startup handshake.
+2023-12-03 15:24:07.158 [info] Finished initializing merkle tree in 3.7629959881305695 ms.
+2023-12-03 15:24:07.159 [info] Doing the initial handshake with hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 15:24:07.285 [info] Handshake result:
+2023-12-03 15:24:07.285 [info] Starting fast remote sync.
+2023-12-03 15:24:07.286 [info] Total num embeddable files: 11
+2023-12-03 15:24:07.286 [info] Root hash: 56734c89dec97c2a66cea977ada822351abfe546e8fcbdc5e7874b8a77953ecb
+2023-12-03 15:24:07.287 [info] Finished indexing repository.
+2023-12-03 15:24:07.287 [info] Indexing job successfully done or aborted.

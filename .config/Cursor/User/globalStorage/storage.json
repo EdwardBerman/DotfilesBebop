@@ -1,0 +1,60 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/eddieberman/.cursor-tutor": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "f4e9e9f316ac1c2e64f4a270b3ecc3ac5a2d5cd00b12c2097062f960faba23e0",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/eddieberman/.cursor-tutor"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/eddieberman/.cursor-tutor",
+            "backupPath": "/home/eddieberman/.config/Cursor/Backups/a23d8fea4c8ff8f908240d7032df2fec",
+            "uiState": {
+                "mode": 0,
+                "x": 964,
+                "y": 605,
+                "width": 948,
+                "height": 475
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#181818",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#d6d6dd",
+            "background": "#181818",
+            "editorBackground": "#181818",
+            "titleBarBackground": "#292929",
+            "activityBarBackground": "#181818",
+            "sideBarBackground": "#181818",
+            "statusBarBackground": "#181818",
+            "statusBarNoFolderBackground": "#181818"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 0,
+            "sideBarWidth": 237,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
+}

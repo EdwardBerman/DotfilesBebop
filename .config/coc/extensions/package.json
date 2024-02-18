@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "coc-snippets": ">=3.1.6",
+    "coc-highlight": ">=2.0.4",
+    "coc-prettier": ">=9.3.1",
+    "coc-marketplace": ">=1.9.0",
+    "coc-julia": ">=0.13.1",
+    "coc-rust-analyzer": ">=0.75.0"
+  }
+}

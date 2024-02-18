@@ -1,0 +1,32 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Firefox-J8THX1.desktop
+x-scheme-handler/https=userapp-Firefox-J8THX1.desktop
+x-scheme-handler/chrome=userapp-Firefox-J8THX1.desktop
+text/html=userapp-Firefox-J8THX1.desktop
+application/x-extension-htm=userapp-Firefox-J8THX1.desktop
+application/x-extension-html=userapp-Firefox-J8THX1.desktop
+application/x-extension-shtml=userapp-Firefox-J8THX1.desktop
+application/xhtml+xml=userapp-Firefox-J8THX1.desktop
+application/x-extension-xhtml=userapp-Firefox-J8THX1.desktop
+application/x-extension-xht=userapp-Firefox-J8THX1.desktop
+text/x-python=com.visualstudio.code.desktop
+text/plain=org.gnome.gedit.desktop
+application/x-shellscript=com.visualstudio.code.desktop
+application/x-yaml=com.visualstudio.code.desktop
+text/x-bibtex=org.gnome.gedit.desktop
+image/jpeg=feh.desktop
+image/png=feh.desktop
+application/pdf=org.pwmt.zathura-pdf-poppler.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Firefox-J8THX1.desktop;io.gitlab.librewolf-community.desktop;
+x-scheme-handler/https=userapp-Firefox-J8THX1.desktop;io.gitlab.librewolf-community.desktop;
+text/html=userapp-Firefox-J8THX1.desktop;io.gitlab.librewolf-community.desktop;
+application/xhtml+xml=userapp-Firefox-J8THX1.desktop;io.gitlab.librewolf-community.desktop;
+application/pdf=org.pwmt.zathura-pdf-poppler.desktop;firefox.desktop;org.gnome.Evince.desktop;io.gitlab.librewolf-community.desktop;
+text/plain=org.gnome.gedit.desktop;io.atom.Atom.desktop;com.visualstudio.code.desktop;
+application/x-shellscript=io.atom.Atom.desktop;com.visualstudio.code.desktop;
+text/x-python=atom.desktop;io.atom.Atom.desktop;com.visualstudio.code.desktop;
+application/x-yaml=com.visualstudio.code.desktop;
+text/x-bibtex=org.gnome.gedit.desktop;
+application/json=org.gnome.gedit.desktop;atom.desktop;
