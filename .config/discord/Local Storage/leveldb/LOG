@@ -1,6 +1,0 @@
-2024/02/17-09:54:49.152 902b Reusing MANIFEST /home/eddieberman/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/02/17-09:54:49.152 902b Recovering log #10
-2024/02/17-09:54:49.152 902b Reusing old log /home/eddieberman/.config/discord/Local Storage/leveldb/000010.log 
-2024/02/17-10:38:13.838 986d Level-0 table #14: started
-2024/02/17-10:38:13.865 986d Level-0 table #14: 2915319 bytes OK
-2024/02/17-10:38:13.866 986d Delete type=0 #10
