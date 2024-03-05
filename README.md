@@ -12,6 +12,7 @@ Eddie's Dotfiles, themed after Cowboy Bebop
 | Spotlight search | Rofi |
 | PDF viewer | Sioyek / Zathura |
 | Editor | Vim |
+| Shell | zsh |
 
 ![img](home.png)
 
