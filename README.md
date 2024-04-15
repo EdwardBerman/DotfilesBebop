@@ -1,4 +1,5 @@
 # dotfiles
+
 Eddie's Dotfiles, themed after Cowboy Bebop
 |                |        |
 |----------------|--------|
@@ -13,6 +14,10 @@ Eddie's Dotfiles, themed after Cowboy Bebop
 | PDF viewer | Sioyek / Zathura |
 | Editor | Vim |
 | Shell | zsh |
+
+## Also See
+
+[VaughnValle](https://github.com/VaughnValle/blue-sky) [Federico Cassano](https://github.com/cassanof/dotfiles) [Jake Ginesin](https://github.com/JakeGinesin/dotfiles) [SirCharlieMars](https://github.com/SeniorMars/dotfiles)
 
 ![img](home.png)
 
