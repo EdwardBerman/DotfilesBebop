@@ -1,7 +1,6 @@
 # dotfiles
 
 Eddie's Dotfiles, themed after Cowboy Bebop
-|                |        |
 |----------------|--------|
 | Notificiation Manager | Dunnst |
 | Windows Manager | BSPWN |
