@@ -1,8 +1,9 @@
 # dotfiles
 
 Eddie's Dotfiles, themed after Cowboy Bebop
-| Notificiation Manager | Dunnst       |
+| Utility    | Tool of Choice        |
 |----------------|--------|
+| Notificiation Manager | Dunnst |
 | Windows Manager | BSPWN |
 | Hotkey Daemon | sxhkd / xkeybinds |
 | Terminal | Alacritty |
