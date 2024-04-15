@@ -17,11 +17,21 @@ Eddie's Dotfiles, themed after Cowboy Bebop
 
 ## Also See
 
-[VaughnValle](https://github.com/VaughnValle/blue-sky) [Federico Cassano](https://github.com/cassanof/dotfiles) [Jake Ginesin](https://github.com/JakeGinesin/dotfiles) [SirCharlieMars](https://github.com/SeniorMars/dotfiles)
+1. [VaughnValle](https://github.com/VaughnValle/blue-sky)
+2. [Federico Cassano](https://github.com/cassanof/dotfiles) 
+3. [Jake Ginesin](https://github.com/JakeGinesin/dotfiles)
+4. [SirCharlieMars](https://github.com/SeniorMars/dotfiles)
+
+  I'm also working on starting the NEU Linux User Group: [Link](https://github.com/NortheasternUniversityLinuxUserGroup)
+
+## Setup Pictures (obligatory)
 
 ![img](home.png)
 
 ![img](cbbb.png)
+
+## Vim Startup Screen
+
 
 ```
 ✴.·´¯`·.·★  🎀𝓣𝓱𝓮 𝓑𝓮𝓻𝓶𝓪𝓷𝓪𝓽𝓸𝓻🎀  ★·.·`¯´·.✴
