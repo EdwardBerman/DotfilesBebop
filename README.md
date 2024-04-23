@@ -32,7 +32,7 @@ Eddie's Dotfiles, themed after Cowboy Bebop
 
 ## Vim Startup Screen
 
-### Please Use Linux. Save the World.  🌍🌎🌏. Made with Love :D --- The Bermanator
+### Please Use Linux. 🌍🌎🌏. Made with Love :D --- The Bermanator
 
 ```
 ✴.·´¯`·.·★  🎀𝓣𝓱𝓮 𝓑𝓮𝓻𝓶𝓪𝓷𝓪𝓽𝓸𝓻🎀  ★·.·`¯´·.✴
@@ -64,7 +64,7 @@ ____^/\___^--____/\____O______________/\/\---/\___________---______________
 
 
 
-Please Use Linux. Save the World.  🌍🌎🌏. Made with Love :D
+Please Use Linux. 🌍🌎🌏. Made with Love :D
 
                                                                     ..;===+.
                                                                 .:=iiiiii=+=
