@@ -4,6 +4,7 @@ Eddie's Dotfiles, themed after Cowboy Bebop
 | Utility    | Tool of Choice        |
 |----------------|--------|
 | Notificiation Manager | Dunnst |
+| Browser | Floorp/Firefox |
 | Windows Manager | BSPWN |
 | Hotkey Daemon | sxhkd / xkeybinds |
 | Terminal | Alacritty |
