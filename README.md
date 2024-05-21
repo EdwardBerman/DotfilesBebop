@@ -31,6 +31,10 @@ Eddie's Dotfiles, themed after Cowboy Bebop
 
 ![img](cbbb.png)
 
+## Neofetch 
+
+![img](nf.png)
+  
 ## Vim Startup Screen
 
 ### Please Use Linux. 🌍🌎🌏. Made with Love :D --- The Bermanator
