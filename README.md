@@ -15,6 +15,7 @@ Eddie's Dotfiles, themed after Cowboy Bebop
 | PDF viewer | Sioyek / Zathura |
 | Editor | Vim |
 | Shell | zsh |
+| Citation Manager | Zotero |
 
 ## Also See
 
