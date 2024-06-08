@@ -16,6 +16,7 @@ Eddie's Dotfiles, themed after Cowboy Bebop
 | Editor | Vim |
 | Shell | zsh |
 | Citation Manager | Zotero |
+| File Manager | Nemo |
 
 ## Also See
 
