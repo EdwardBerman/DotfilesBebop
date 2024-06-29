@@ -1,4 +1,6 @@
 {
+  "python.linting.enabled": true,
+  "python.linting.pyrightEnabled": true,
   "codeLens.enable": true,
   "java.project.referencedLibraries": [
     "lib/**/*.jar",
@@ -18,5 +20,6 @@
   "java.format.settings.url": "/Users/noahshinn/.config/nvim/eclipse-formatter.xml",
   "java.format.enabled": true,
   "java.format.onType.enabled": true,
-  "java.format.comments.enabled": true
+  "java.format.comments.enabled": true,
+  "python..analysis.typeCheckingMode": "basic"
 }

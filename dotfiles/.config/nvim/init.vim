@@ -3,25 +3,102 @@ Plug 'joshdick/onedark.vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'vim-airline/vim-airline'
 Plug 'scrooloose/nerdcommenter'
+Plug 'morhetz/gruvbox'
+Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
 Plug 'preservim/nerdtree'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 Plug 'pangloss/vim-javascript'
+Plug 'prichrd/netrw.nvim'
 Plug 'mxw/vim-jsx'
-Plug 'github/copilot.vim'
 Plug 'turbio/bracey.vim', {'do': 'npm install --prefix server'}
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() } }
 Plug 'lervag/vimtex'
 Plug 'JuliaEditorSupport/julia-vim'
 Plug 'junegunn/goyo.vim'
+Plug 'sainnhe/gruvbox-material'
 Plug 'mhinz/vim-startify'
+Plug 'fannheyward/coc-pyright', {'do': 'yarn install --frozen-lockfile'}
+Plug 'voldikss/vim-floaterm'
+Plug 'gelguy/wilder.nvim'
+Plug 'roxma/nvim-yarp'
+Plug 'roxma/vim-hug-neovim-rpc'
+Plug 'nvim-lua/plenary.nvim'
+Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.8' }
 call plug#end()
 
 " Colorscheme stuff
 colorscheme jellybeans
+"colorscheme gruvbox-material
 syntax on
 set background=dark
 set guifont=Monaco:h10 
+
+if (has("termguicolors"))
+  set termguicolors
+endif
+
+let g:floaterm_wintype = 'vsplit'
+function! FloatTermIgnoreKeys()
+  " Remap <C-w> combinations in terminal mode to pass to Neovim
+  tnoremap <buffer> <C-w>h <C-\><C-n><C-w>h
+  tnoremap <buffer> <C-w>j <C-\><C-n><C-w>j
+  tnoremap <buffer> <C-w>k <C-\><C-n><C-w>k
+  tnoremap <buffer> <C-w>l <C-\><C-n><C-w>l
+  tnoremap <buffer> <C-w>v <C-\><C-n><C-w>v
+endfunction
+autocmd! TermOpen term://*floatterm#* call FloatTermIgnoreKeys()
+function! ToggleFloaterm()
+    if exists('*floaterm#is_opened') && floaterm#is_opened()
+        " If a floaterm is open, toggle its visibility
+        FloatermHide
+    else
+        " Otherwise, open a new floaterm
+        FloatermNew
+    endif
+endfunction
+
+
+" Map the toggle function to a key, such as <F12>
+nnoremap <F12> :call ToggleFloaterm()<CR>
+
+"cnoremap wq wq!
+
+let g:toggleterm_size = 50
+let g:toggleterm_direction = 'float'
+let g:toggleterm_float = 1
+
+nnoremap <Leader>tt :ToggleTerm<CR>
+
+nnoremap <Leader>ff :Telescope find_files<CR>
+nnoremap <Leader>fg :Telescope live_grep<CR>
+nnoremap <Leader>fb :Telescope buffers<CR>
+nnoremap <Leader>fh :Telescope help_tags<CR>
+
+" Map <Leader>tn and <Leader>tp to navigate between terminals
+nnoremap <Leader>tn :ToggleTermNext<CR>
+nnoremap <Leader>tp :ToggleTermPrev<CR>
+
+" Map <Leader>tc to close the current terminal split
+nnoremap <Leader>tc :ToggleTermClose<CR>
+
+" Customize terminal size and position (optional)
+let g:toggleterm_size = 50
+let g:toggleterm_direction = 'float'
+let g:toggleterm_float = 1
+
+call wilder#setup({'modes': [':', '/', '?']})
+
+let g:netrw_banner = 0
+let g:netrw_browse_split = 4
+let g:netrw_liststyle = 3
+let g:netrw_winsize = -28
+let g:netrw_browsex_viewer = "firefox"
+
+
+" Optional: Customize Gruvbox settings
+let g:gruvbox_contrast_dark = 'hard'
+let g:gruvbox_invert_selection = '0'
 
 " set leader key
 :let g:latex_to_unicode_auto = 1
@@ -40,6 +117,18 @@ let g:vimtex_compiler_latexmk = {
 " line number
 set nu
 set relativenumber
+
+set splitright
+
+function! OpenFileRight()
+  " Save the current file path
+  let l:file = expand("<cfile>")
+  " Open a new vertical split and move to the rightmost window
+  rightbelow vnew
+  wincmd L
+  " Open the saved file path in the new window
+  execute 'edit ' . l:file
+endfunction
 
 set clipboard=unnamedplus
 
@@ -124,3 +213,13 @@ inoremap <c-s> <Esc>:Update<CR>
 
 source ~/.config/nvim/coc-rc.vim
 source ~/.config/nvim/vimtex-rc.vim
+function! DisplayStartMessage()
+  let l:lines = readfile('/home/eddieberman/art.txt')
+  for l:line in l:lines
+    echo l:line
+  endfor
+endfunction
+
+if argc() == 0 && !exists("s:std_in")
+  call DisplayStartMessage()
+endif
