@@ -33,6 +33,10 @@ Eddie's Dotfiles, themed after Cowboy Bebop
 
 ![img](cbbb.png)
 
+![img](lazy.png)
+
+![img](vex.png)
+
 ![img](ex.png)
   
 ## Neofetch 
